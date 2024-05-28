@@ -1,0 +1,38 @@
+.box-parent{
+    top: 100px;
+    left: 350px;
+    border-radius: 250px;
+    position: relative;
+    height: 500px;
+    width: 500px;
+    background-color: red;
+}
+.box1{
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+    border-bottom: 2px black solid;
+    background-color: white;
+    position: absolute;
+    bottom: 150px;
+    left: -20px;
+}
+.box2{
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+    background-color: blueviolet;
+    position: absolute;
+    top:200px;
+    right: -20px;
+}
+.box3{
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+    background-color: rgb(43, 226, 95);
+    position: absolute;
+    top: -40px;
+    left: 150px;
+
+}
